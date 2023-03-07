@@ -1,5 +1,6 @@
 # Balmakhanov Meirkhan
-<img href="./images/avatar.jpg" width="200" />
+<img href="/images/avatar.jpg" width="200">
+
 ## Personal Info
 **Birthday:** 07 july 1990  
 **Address:** Kazakstan, Almaty  
