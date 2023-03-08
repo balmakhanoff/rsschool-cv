@@ -23,3 +23,17 @@ I still in process of studying in [_Sapsan_](https://sapsanedu.com/),  [_One Sof
 
 ## Example of my project
 * **ANOW landing:** _https://balmakhanoff.github.io/anow-landing/_
+
+## Example of code
+```
+function countSheeps(arrayOfSheep) {
+  let sheepsNumbers = 0;
+  for (let i = 0; i < arrayOfSheep.length; i++) {
+    if (arrayOfSheep[i] === true) {
+      sheepsNumbers ++
+    }
+  }
+  console.log(sheepsNumbers)
+  return sheepsNumbers;
+}
+```
