@@ -22,7 +22,7 @@ I still in process of studying in [_Sapsan_](https://sapsanedu.com/),  [_One Sof
 >> Discipline is the key for everything
 
 ## Example of my project
-* **ANOW landing:** https://balmakhanoff.github.io/anow-landing/  
+* **ANOW landing:** [ https://balmakhanoff.github.io/anow-landing/](https://balmakhanoff.github.io/anow-landing/)
 
 ## Example of code
 ```
@@ -42,4 +42,6 @@ function countSheeps(arrayOfSheep) {
 ## Languages
 * **Russian** - native speaker
 * **Kazakh** - native speaker
-* **English** - B1
+* **English** - B1  
+
+
