@@ -22,10 +22,11 @@ I still in process of studying in [_Sapsan_](https://sapsanedu.com/),  [_One Sof
 >> Discipline is the key for everything
 
 ## Example of my project
-* **ANOW landing:** _https://balmakhanoff.github.io/anow-landing/_
+* **ANOW landing:** https://balmakhanoff.github.io/anow-landing/  
 
 ## Example of code
 ```
+
 function countSheeps(arrayOfSheep) {
   let sheepsNumbers = 0;
   for (let i = 0; i < arrayOfSheep.length; i++) {
@@ -37,3 +38,8 @@ function countSheeps(arrayOfSheep) {
   return sheepsNumbers;
 }
 ```
+
+## Languages
+* **Russian** - native speaker
+* **Kazakh** - native speaker
+* **English** - B1
