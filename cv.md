@@ -4,7 +4,7 @@
 **Birthday:** 07 july 1990  
 **Address:** Kazakstan, Almaty  
 ### Contacts
-**Phone number:** +7 777 760 5210
+**Phone number:** +7 777 760 5210  
 **email:** _sinogu@yandex.ru_
 ## Skills
 * HTML 5
